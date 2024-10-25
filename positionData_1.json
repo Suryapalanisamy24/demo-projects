@@ -1,0 +1,107 @@
+{
+  "positionData": {
+    "shipId": 202836,
+    "lat": 22.5239,
+    "lon": 120.2682,
+    "speed": 0.1,
+    "course": 104,
+    "heading": 315,
+    "rateOfTurn": 0,
+    "draught": 12.7,
+    "timestamp": 1729230841,
+    "timezone": 8,
+    "navigationalStatus": "At Anchor",
+    "stationId": 876,
+    "stationType": "Terrestrial",
+    "stationName": "Kaohsiung City",
+    "operatorName": null,
+    "areaName": "South China",
+    "areaCode": "SCHINA",
+    "isVesselInRange": true,
+    "hasNewerSatellitePosition": false,
+    "isEligibleToRequestInmarsat": false
+  },
+  "voyageData": {
+    "shipId": 202836,
+    "eta": 1729220400,
+    "etaTimezone": 8,
+    "etaCalc": null,
+    "etaCalcTimezone": null,
+    "reportedDestination": "CN TAO>TW KHH",
+    "distanceTravelled": null,
+    "distanceToGo": null,
+    "progress": 100,
+    "departurePortId": 1254,
+    "departureTimestamp": 1728989640,
+    "departureLabel": "ATD",
+    "arrivalPortId": 20615,
+    "arrivalTimestamp": 1729219380,
+    "arrivalLabel": "ATA",
+    "lastPortTime": 1728989640,
+    "estimatedRouteFound": false,
+    "loadCondition": null,
+    "previousDeparturePortId": null,
+    "previousArrivalTimestamp": null
+  },
+  "arrivalPortData": {
+    "id": 20615,
+    "name": "KAOHSIUNG ANCH",
+    "alternativeNames": [],
+    "type": "A",
+    "size": "L",
+    "unlocode": null,
+    "lon": 120.2545,
+    "lat": 22.58847,
+    "timezone": 8,
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "relations": {
+      "anchorages": [],
+      "ports": [
+        {
+          "id": "190",
+          "name": "KAOHSIUNG"
+        }
+      ]
+    }
+  },
+  "departurePortData": {
+    "id": 1254,
+    "name": "QINGDAO",
+    "alternativeNames": [
+      "QING DAO",
+      "QIANWAN",
+      "CNTAO",
+      "CN TAO"
+    ],
+    "type": "P",
+    "size": "L",
+    "unlocode": "CNQDG",
+    "lon": 120.3201,
+    "lat": 36.05661,
+    "timezone": 8,
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "relations": {
+      "anchorages": [
+        {
+          "id": "22322",
+          "name": "QINGDAO ANCH"
+        }
+      ],
+      "ports": []
+    }
+  },
+  "mmsi": [
+    "mmsi:235603000",
+    "235603000"
+  ],
+  "imo": [
+    "imo:9241293",
+    "9241293"
+  ]
+}

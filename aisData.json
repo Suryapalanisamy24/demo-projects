@@ -1,0 +1,207 @@
+{
+  "IMO": "9462732",
+  "MMSI": "416464000",
+  "Flag": "Taiwan",
+  "Call Sign": "BLHI",
+  "Size": "333 x 43 m",
+  "GT": "90,532 Tons",
+  "DWT": "103,235 Tons",
+  "Build": "2013 ( 11 years old )",
+  "Status": "Active",
+  "portDetails": {
+    "origin": {
+      "portName": "OAKLAND",
+      "unlocCode": "USOAK",
+      "ATD": "2024-09-22"
+    },
+    "destination": null
+  },
+  "vesselDetails": {
+    "Time Travelled": "1 day",
+    "Remaining Time": "---",
+    "Distance Travelled": "481.86 nm",
+    "Remaining Distance": "---",
+    "AVG Speed": "10.2 Knots",
+    "MAX Speed": "15.7 Knots",
+    "AVG Wind": "11.8 knots",
+    "MAX Wind": "26 knots",
+    "MIN Temp": "12.2°C / 53.96°F",
+    "MAX Temp": "21.8°C / 71.24°F",
+    "Draught": "11.4 m",
+    "Position Received": "1 d ago"
+  },
+  "locationDetails": {
+    "Longitude": "-124.21600°",
+    "Latitude": "38.50900°",
+    "Status": "Under way using engine",
+    "Speed": "11.1 Knots",
+    "Course": "286.3°",
+    "Area": "North Pacific Ocean",
+    "Station": "T-AIS",
+    "Position Received": "1 d ago"
+  },
+  "weatherDetails": {
+    "Temperature": "18.9°C / 66.02°F",
+    "Wind Speed": "9 knots",
+    "Direction": "334° NNW",
+    "Pressure": "1016.2 hPa",
+    "Humidity": "91.4 %",
+    "Cloud Coverage": "100 %"
+  },
+  "lastPortCalls": [
+    {
+      "Port": "OAKLAND",
+      "Arrival": "2024-09-21 15:06",
+      "Departure": "2024-09-22 21:29",
+      "Time In Port": "1 d"
+    },
+    {
+      "Port": "LOS ANGELES",
+      "Arrival": "2024-09-14 12:17",
+      "Departure": "2024-09-19 02:23",
+      "Time In Port": "4 d"
+    },
+    {
+      "Port": "KEELUNG",
+      "Arrival": "2024-08-29 04:22",
+      "Departure": "2024-08-29 23:53",
+      "Time In Port": "19 h"
+    },
+    {
+      "Port": "KAOHSIUNG",
+      "Arrival": "2024-08-27 13:43",
+      "Departure": "2024-08-28 15:03",
+      "Time In Port": "1 d"
+    },
+    {
+      "Port": "YANTIAN",
+      "Arrival": "2024-08-25 13:45",
+      "Departure": "2024-08-26 17:25",
+      "Time In Port": "1 d"
+    },
+    {
+      "Port": "KAOHSIUNG",
+      "Arrival": "2024-08-18 16:33",
+      "Departure": "2024-08-19 23:23",
+      "Time In Port": "1 d"
+    },
+    {
+      "Port": "KEELUNG",
+      "Arrival": "2024-08-17 02:44",
+      "Departure": "2024-08-17 23:43",
+      "Time In Port": "20 h"
+    },
+    {
+      "Port": "OAKLAND",
+      "Arrival": "2024-07-26 11:17",
+      "Departure": "2024-07-27 21:30",
+      "Time In Port": "1 d"
+    },
+    {
+      "Port": "LOS ANGELES",
+      "Arrival": "2024-07-19 09:13",
+      "Departure": "2024-07-23 12:06",
+      "Time In Port": "4 d"
+    },
+    {
+      "Port": "KEELUNG",
+      "Arrival": "2024-07-03 10:36",
+      "Departure": "2024-07-04 06:26",
+      "Time In Port": "19 h"
+    }
+  ],
+  "mostVisitedPorts": [
+    {
+      "Port": "KAOHSIUNG",
+      "Arrivals": "14"
+    },
+    {
+      "Port": "KEELUNG",
+      "Arrivals": "14"
+    },
+    {
+      "Port": "OAKLAND",
+      "Arrivals": "7"
+    },
+    {
+      "Port": "YANTIAN",
+      "Arrivals": "7"
+    },
+    {
+      "Port": "LOS ANGELES",
+      "Arrivals": "7"
+    }
+  ],
+  "lastTrips": [
+    {
+      "Origin": "LOS ANGELES",
+      "Departure": "2024-09-18 19:23",
+      "Destination": "OAKLAND",
+      "Arrival": "2024-09-21 08:06",
+      "Distance": "403.17 nm"
+    },
+    {
+      "Origin": "KEELUNG",
+      "Departure": "2024-08-30 07:53",
+      "Destination": "LOS ANGELES",
+      "Arrival": "2024-09-14 05:17",
+      "Distance": "5936.87 nm"
+    },
+    {
+      "Origin": "KAOHSIUNG",
+      "Departure": "2024-08-28 23:03",
+      "Destination": "KEELUNG",
+      "Arrival": "2024-08-29 12:22",
+      "Distance": "241.17 nm"
+    },
+    {
+      "Origin": "YANTIAN",
+      "Departure": "2024-08-27 01:25",
+      "Destination": "KAOHSIUNG",
+      "Arrival": "2024-08-27 21:43",
+      "Distance": "348.05 nm"
+    },
+    {
+      "Origin": "KAOHSIUNG",
+      "Departure": "2024-08-20 07:23",
+      "Destination": "YANTIAN",
+      "Arrival": "2024-08-25 21:45",
+      "Distance": "511.65 nm"
+    },
+    {
+      "Origin": "KEELUNG",
+      "Departure": "2024-08-18 07:43",
+      "Destination": "KAOHSIUNG",
+      "Arrival": "2024-08-19 00:33",
+      "Distance": "248.74 nm"
+    },
+    {
+      "Origin": "OAKLAND",
+      "Departure": "2024-07-27 14:30",
+      "Destination": "KEELUNG",
+      "Arrival": "2024-08-17 10:44",
+      "Distance": "5698.11 nm"
+    },
+    {
+      "Origin": "LOS ANGELES",
+      "Departure": "2024-07-23 05:06",
+      "Destination": "OAKLAND",
+      "Arrival": "2024-07-26 04:17",
+      "Distance": "420.65 nm"
+    },
+    {
+      "Origin": "KEELUNG",
+      "Departure": "2024-07-04 14:26",
+      "Destination": "LOS ANGELES",
+      "Arrival": "2024-07-19 02:13",
+      "Distance": "5930.66 nm"
+    },
+    {
+      "Origin": "KAOHSIUNG",
+      "Departure": "2024-07-02 22:56",
+      "Destination": "KEELUNG",
+      "Arrival": "2024-07-03 18:36",
+      "Distance": "244.15 nm"
+    }
+  ]
+}

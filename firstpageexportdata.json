@@ -1,0 +1,3009 @@
+{
+  "mappedData": [
+    {
+      "S.No": "1",
+      "Exporter_List": "Samsung India Electronics Private Limited",
+      "Total_Value_in_USD": "23468811718.85",
+      "Percentage": "1.98%",
+      "totalShipments": "62216",
+      "totalValue": "24107710849",
+      "shipments": "62216",
+      "buyer": "514",
+      "country": "78",
+      "port": "24",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "85322990",
+          "Total_Value_in_USD": "9636291837.81",
+          "Percentage": "39.97%"
+        },
+        {
+          "HS_Code": "85177990",
+          "Total_Value_in_USD": "5089811223.32",
+          "Percentage": "21.11%"
+        },
+        {
+          "HS_Code": "85249220",
+          "Total_Value_in_USD": "4575933690.68",
+          "Percentage": "18.98%"
+        },
+        {
+          "HS_Code": "85171300",
+          "Total_Value_in_USD": "2785641026.9",
+          "Percentage": "11.55%"
+        },
+        {
+          "HS_Code": "85423900",
+          "Total_Value_in_USD": "1358605033.88",
+          "Percentage": "5.64%"
+        },
+        {
+          "HS_Code": "85423100",
+          "Total_Value_in_USD": "355156825.01",
+          "Percentage": "1.47%"
+        },
+        {
+          "HS_Code": "85423300",
+          "Total_Value_in_USD": "143411386.83",
+          "Percentage": "0.59%"
+        },
+        {
+          "HS_Code": "85258900",
+          "Total_Value_in_USD": "66583493.12",
+          "Percentage": "0.28%"
+        },
+        {
+          "HS_Code": "85423200",
+          "Total_Value_in_USD": "36447673.74",
+          "Percentage": "0.15%"
+        },
+        {
+          "HS_Code": "85340000",
+          "Total_Value_in_USD": "23638000.16",
+          "Percentage": "0.1%"
+        }
+      ]
+    },
+    {
+      "S.No": "2",
+      "Exporter_List": "Cipla Limited",
+      "Total_Value_in_USD": "14808112780.09",
+      "Percentage": "1.25%",
+      "totalShipments": "26406",
+      "totalValue": "14958599834",
+      "shipments": "26406",
+      "buyer": "701",
+      "country": "124",
+      "port": "22",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30049079",
+          "Total_Value_in_USD": "10709416965.62",
+          "Percentage": "71.59%"
+        },
+        {
+          "HS_Code": "30049089",
+          "Total_Value_in_USD": "2630720804.81",
+          "Percentage": "17.59%"
+        },
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "692898800.37",
+          "Percentage": "4.63%"
+        },
+        {
+          "HS_Code": "30049074",
+          "Total_Value_in_USD": "215079049.26",
+          "Percentage": "1.44%"
+        },
+        {
+          "HS_Code": "30049082",
+          "Total_Value_in_USD": "142892147.27",
+          "Percentage": "0.96%"
+        },
+        {
+          "HS_Code": "30043200",
+          "Total_Value_in_USD": "122825859.44",
+          "Percentage": "0.82%"
+        },
+        {
+          "HS_Code": "30049034",
+          "Total_Value_in_USD": "95593812.07",
+          "Percentage": "0.64%"
+        },
+        {
+          "HS_Code": "30049049",
+          "Total_Value_in_USD": "71529323.66",
+          "Percentage": "0.48%"
+        },
+        {
+          "HS_Code": "30049072",
+          "Total_Value_in_USD": "36521541.25",
+          "Percentage": "0.24%"
+        },
+        {
+          "HS_Code": "30049066",
+          "Total_Value_in_USD": "31638505.96",
+          "Percentage": "0.21%"
+        }
+      ]
+    },
+    {
+      "S.No": "3",
+      "Exporter_List": "Itc Limited",
+      "Total_Value_in_USD": "6732425348.97",
+      "Percentage": "0.57%",
+      "totalShipments": "28328",
+      "totalValue": "6980380912",
+      "shipments": "28328",
+      "buyer": "1044",
+      "country": "110",
+      "port": "102",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "24022090",
+          "Total_Value_in_USD": "6382044434.87",
+          "Percentage": "91.43%"
+        },
+        {
+          "HS_Code": "24012010",
+          "Total_Value_in_USD": "170260943.73",
+          "Percentage": "2.44%"
+        },
+        {
+          "HS_Code": "10063010",
+          "Total_Value_in_USD": "73649941.91",
+          "Percentage": "1.06%"
+        },
+        {
+          "HS_Code": "24012040",
+          "Total_Value_in_USD": "54671272.91",
+          "Percentage": "0.78%"
+        },
+        {
+          "HS_Code": "39219096",
+          "Total_Value_in_USD": "47166207",
+          "Percentage": "0.68%"
+        },
+        {
+          "HS_Code": "48109900",
+          "Total_Value_in_USD": "45242703.13",
+          "Percentage": "0.65%"
+        },
+        {
+          "HS_Code": "11010000",
+          "Total_Value_in_USD": "21620126.91",
+          "Percentage": "0.31%"
+        },
+        {
+          "HS_Code": "09042211",
+          "Total_Value_in_USD": "18138338.69",
+          "Percentage": "0.26%"
+        },
+        {
+          "HS_Code": "03061720",
+          "Total_Value_in_USD": "15504554.82",
+          "Percentage": "0.22%"
+        },
+        {
+          "HS_Code": "10063090",
+          "Total_Value_in_USD": "14554769.81",
+          "Percentage": "0.21%"
+        }
+      ]
+    },
+    {
+      "S.No": "4",
+      "Exporter_List": "Macleods Pharmaceuticals Ltd",
+      "Total_Value_in_USD": "5136959684.77",
+      "Percentage": "0.43%",
+      "totalShipments": "5196",
+      "totalValue": "5136959685",
+      "shipments": "5196",
+      "buyer": "390",
+      "country": "136",
+      "port": "21",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "3483832970.81",
+          "Percentage": "67.82%"
+        },
+        {
+          "HS_Code": "30049057",
+          "Total_Value_in_USD": "750548545.71",
+          "Percentage": "14.61%"
+        },
+        {
+          "HS_Code": "30049079",
+          "Total_Value_in_USD": "196558612.19",
+          "Percentage": "3.83%"
+        },
+        {
+          "HS_Code": "30049053",
+          "Total_Value_in_USD": "169953396.32",
+          "Percentage": "3.31%"
+        },
+        {
+          "HS_Code": "30049089",
+          "Total_Value_in_USD": "108480757.3",
+          "Percentage": "2.11%"
+        },
+        {
+          "HS_Code": "30049039",
+          "Total_Value_in_USD": "81475377.37",
+          "Percentage": "1.59%"
+        },
+        {
+          "HS_Code": "30043190",
+          "Total_Value_in_USD": "76479189.53",
+          "Percentage": "1.49%"
+        },
+        {
+          "HS_Code": "30042099",
+          "Total_Value_in_USD": "72652337.47",
+          "Percentage": "1.41%"
+        },
+        {
+          "HS_Code": "30046000",
+          "Total_Value_in_USD": "38504241.17",
+          "Percentage": "0.75%"
+        },
+        {
+          "HS_Code": "30049069",
+          "Total_Value_in_USD": "27922418.03",
+          "Percentage": "0.54%"
+        }
+      ]
+    },
+    {
+      "S.No": "5",
+      "Exporter_List": "Foxconn Hon Hai Technology India Mega Development",
+      "Total_Value_in_USD": "4665741096.52",
+      "Percentage": "0.39%",
+      "totalShipments": "16513",
+      "totalValue": "4665741097",
+      "shipments": "16513",
+      "buyer": "173",
+      "country": "31",
+      "port": "7",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "85171300",
+          "Total_Value_in_USD": "4647087574.84",
+          "Percentage": "99.6%"
+        },
+        {
+          "HS_Code": "85177910",
+          "Total_Value_in_USD": "9213801.18",
+          "Percentage": "0.2%"
+        },
+        {
+          "HS_Code": "85177990",
+          "Total_Value_in_USD": "4257952.26",
+          "Percentage": "0.09%"
+        },
+        {
+          "HS_Code": "85423100",
+          "Total_Value_in_USD": "2169175.29",
+          "Percentage": "0.05%"
+        },
+        {
+          "HS_Code": "84798999",
+          "Total_Value_in_USD": "1192917.46",
+          "Percentage": "0.03%"
+        },
+        {
+          "HS_Code": "90318000",
+          "Total_Value_in_USD": "967185.55",
+          "Percentage": "0.02%"
+        },
+        {
+          "HS_Code": "90304000",
+          "Total_Value_in_USD": "220108.96",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "84663020",
+          "Total_Value_in_USD": "93475.46",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "73269099",
+          "Total_Value_in_USD": "80325.36",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "85340000",
+          "Total_Value_in_USD": "73177.71",
+          "Percentage": "0%"
+        }
+      ]
+    },
+    {
+      "S.No": "6",
+      "Exporter_List": "Mylan Laboratories Limited",
+      "Total_Value_in_USD": "4414234253.99",
+      "Percentage": "0.37%",
+      "totalShipments": "10863",
+      "totalValue": "4581640422",
+      "shipments": "10863",
+      "buyer": "1005",
+      "country": "177",
+      "port": "29",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30049059",
+          "Total_Value_in_USD": "920157322.2",
+          "Percentage": "20.08%"
+        },
+        {
+          "HS_Code": "30049039",
+          "Total_Value_in_USD": "915763269.55",
+          "Percentage": "19.99%"
+        },
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "875987408.14",
+          "Percentage": "19.12%"
+        },
+        {
+          "HS_Code": "30049033",
+          "Total_Value_in_USD": "470680860.76",
+          "Percentage": "10.27%"
+        },
+        {
+          "HS_Code": "30049071",
+          "Total_Value_in_USD": "254170601.39",
+          "Percentage": "5.55%"
+        },
+        {
+          "HS_Code": "30043190",
+          "Total_Value_in_USD": "180998012.22",
+          "Percentage": "3.95%"
+        },
+        {
+          "HS_Code": "49111090",
+          "Total_Value_in_USD": "154651801.29",
+          "Percentage": "3.38%"
+        },
+        {
+          "HS_Code": "30049079",
+          "Total_Value_in_USD": "153778453.16",
+          "Percentage": "3.36%"
+        },
+        {
+          "HS_Code": "30049063",
+          "Total_Value_in_USD": "121336073.08",
+          "Percentage": "2.65%"
+        },
+        {
+          "HS_Code": "30049072",
+          "Total_Value_in_USD": "121267776.67",
+          "Percentage": "2.65%"
+        }
+      ]
+    },
+    {
+      "S.No": "7",
+      "Exporter_List": "Reliance Industries Limited",
+      "Total_Value_in_USD": "3082060716.03",
+      "Percentage": "0.26%",
+      "totalShipments": "29708",
+      "totalValue": "3862146193",
+      "shipments": "29708",
+      "buyer": "1295",
+      "country": "100",
+      "port": "108",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "27101939",
+          "Total_Value_in_USD": "1194087051.44",
+          "Percentage": "30.92%"
+        },
+        {
+          "HS_Code": "27101944",
+          "Total_Value_in_USD": "693676274.5",
+          "Percentage": "17.96%"
+        },
+        {
+          "HS_Code": "27101241",
+          "Total_Value_in_USD": "299348012.34",
+          "Percentage": "7.75%"
+        },
+        {
+          "HS_Code": "97019900",
+          "Total_Value_in_USD": "231841108.31",
+          "Percentage": "6%"
+        },
+        {
+          "HS_Code": "27101942",
+          "Total_Value_in_USD": "211980708.82",
+          "Percentage": "5.49%"
+        },
+        {
+          "HS_Code": "27101221",
+          "Total_Value_in_USD": "209096387.22",
+          "Percentage": "5.41%"
+        },
+        {
+          "HS_Code": "39076190",
+          "Total_Value_in_USD": "193540202.17",
+          "Percentage": "5.01%"
+        },
+        {
+          "HS_Code": "89012000",
+          "Total_Value_in_USD": "112503926.52",
+          "Percentage": "2.91%"
+        },
+        {
+          "HS_Code": "29022000",
+          "Total_Value_in_USD": "81987724.74",
+          "Percentage": "2.12%"
+        },
+        {
+          "HS_Code": "39014010",
+          "Total_Value_in_USD": "59639649.59",
+          "Percentage": "1.54%"
+        }
+      ]
+    },
+    {
+      "S.No": "8",
+      "Exporter_List": "Solar Industries India Limited",
+      "Total_Value_in_USD": "2799000327.9",
+      "Percentage": "0.24%",
+      "totalShipments": "1771",
+      "totalValue": "2818436222",
+      "shipments": "1771",
+      "buyer": "76",
+      "country": "30",
+      "port": "9",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "36034000",
+          "Total_Value_in_USD": "961923986.66",
+          "Percentage": "34.13%"
+        },
+        {
+          "HS_Code": "36035000",
+          "Total_Value_in_USD": "896688821.47",
+          "Percentage": "31.82%"
+        },
+        {
+          "HS_Code": "36020010",
+          "Total_Value_in_USD": "857180915.82",
+          "Percentage": "30.41%"
+        },
+        {
+          "HS_Code": "36032000",
+          "Total_Value_in_USD": "77465490.99",
+          "Percentage": "2.75%"
+        },
+        {
+          "HS_Code": "36020090",
+          "Total_Value_in_USD": "19269869.73",
+          "Percentage": "0.68%"
+        },
+        {
+          "HS_Code": "48219010",
+          "Total_Value_in_USD": "2283024.09",
+          "Percentage": "0.08%"
+        },
+        {
+          "HS_Code": "36036000",
+          "Total_Value_in_USD": "890862.79",
+          "Percentage": "0.03%"
+        },
+        {
+          "HS_Code": "38112100",
+          "Total_Value_in_USD": "677714.46",
+          "Percentage": "0.02%"
+        },
+        {
+          "HS_Code": "85444920",
+          "Total_Value_in_USD": "649912.95",
+          "Percentage": "0.02%"
+        },
+        {
+          "HS_Code": "36031000",
+          "Total_Value_in_USD": "287462.52",
+          "Percentage": "0.01%"
+        }
+      ]
+    },
+    {
+      "S.No": "9",
+      "Exporter_List": "Indian Oil Corporation Limited",
+      "Total_Value_in_USD": "2542628608.81",
+      "Percentage": "0.21%",
+      "totalShipments": "67245",
+      "totalValue": "3426080931",
+      "shipments": "67245",
+      "buyer": "981",
+      "country": "60",
+      "port": "62",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "27101944",
+          "Total_Value_in_USD": "1421563663.41",
+          "Percentage": "41.49%"
+        },
+        {
+          "HS_Code": "27101221",
+          "Total_Value_in_USD": "647162188.96",
+          "Percentage": "18.89%"
+        },
+        {
+          "HS_Code": "27101241",
+          "Total_Value_in_USD": "317494035.94",
+          "Percentage": "9.27%"
+        },
+        {
+          "HS_Code": "27111990",
+          "Total_Value_in_USD": "264518527.57",
+          "Percentage": "7.72%"
+        },
+        {
+          "HS_Code": "27101949",
+          "Total_Value_in_USD": "182863878.23",
+          "Percentage": "5.34%"
+        },
+        {
+          "HS_Code": "27101939",
+          "Total_Value_in_USD": "120042509.98",
+          "Percentage": "3.5%"
+        },
+        {
+          "HS_Code": "27101953",
+          "Total_Value_in_USD": "99786804.4",
+          "Percentage": "2.91%"
+        },
+        {
+          "HS_Code": "29022000",
+          "Total_Value_in_USD": "87387180.23",
+          "Percentage": "2.55%"
+        },
+        {
+          "HS_Code": "27101290",
+          "Total_Value_in_USD": "77548300.96",
+          "Percentage": "2.26%"
+        },
+        {
+          "HS_Code": "27101951",
+          "Total_Value_in_USD": "68399149.08",
+          "Percentage": "2%"
+        }
+      ]
+    },
+    {
+      "S.No": "10",
+      "Exporter_List": "Alkem Laboratories Limited",
+      "Total_Value_in_USD": "1805392047.81",
+      "Percentage": "0.15%",
+      "totalShipments": "6327",
+      "totalValue": "1848295514",
+      "shipments": "6327",
+      "buyer": "117",
+      "country": "25",
+      "port": "15",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "694021898.55",
+          "Percentage": "37.55%"
+        },
+        {
+          "HS_Code": "30049079",
+          "Total_Value_in_USD": "271976687.33",
+          "Percentage": "14.72%"
+        },
+        {
+          "HS_Code": "30049081",
+          "Total_Value_in_USD": "261758038.04",
+          "Percentage": "14.16%"
+        },
+        {
+          "HS_Code": "30042012",
+          "Total_Value_in_USD": "225822349.4",
+          "Percentage": "12.22%"
+        },
+        {
+          "HS_Code": "30049074",
+          "Total_Value_in_USD": "102875575.73",
+          "Percentage": "5.57%"
+        },
+        {
+          "HS_Code": "30049072",
+          "Total_Value_in_USD": "97681152.69",
+          "Percentage": "5.28%"
+        },
+        {
+          "HS_Code": "30042019",
+          "Total_Value_in_USD": "88818574.09",
+          "Percentage": "4.81%"
+        },
+        {
+          "HS_Code": "30049049",
+          "Total_Value_in_USD": "53517315.34",
+          "Percentage": "2.9%"
+        },
+        {
+          "HS_Code": "30049039",
+          "Total_Value_in_USD": "18671909.31",
+          "Percentage": "1.01%"
+        },
+        {
+          "HS_Code": "30049069",
+          "Total_Value_in_USD": "7559502.6",
+          "Percentage": "0.41%"
+        }
+      ]
+    },
+    {
+      "S.No": "11",
+      "Exporter_List": "Unichem Laboratories Limited",
+      "Total_Value_in_USD": "1804340312.58",
+      "Percentage": "0.15%",
+      "totalShipments": "5320",
+      "totalValue": "1839267425",
+      "shipments": "5320",
+      "buyer": "286",
+      "country": "68",
+      "port": "18",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "684462893.87",
+          "Percentage": "37.21%"
+        },
+        {
+          "HS_Code": "30049081",
+          "Total_Value_in_USD": "318110672.49",
+          "Percentage": "17.3%"
+        },
+        {
+          "HS_Code": "30049079",
+          "Total_Value_in_USD": "284601275.85",
+          "Percentage": "15.47%"
+        },
+        {
+          "HS_Code": "30049072",
+          "Total_Value_in_USD": "261227423.57",
+          "Percentage": "14.2%"
+        },
+        {
+          "HS_Code": "30049066",
+          "Total_Value_in_USD": "136404935.37",
+          "Percentage": "7.42%"
+        },
+        {
+          "HS_Code": "30049022",
+          "Total_Value_in_USD": "49575474.1",
+          "Percentage": "2.7%"
+        },
+        {
+          "HS_Code": "30049076",
+          "Total_Value_in_USD": "45419921.42",
+          "Percentage": "2.47%"
+        },
+        {
+          "HS_Code": "30049082",
+          "Total_Value_in_USD": "17144729.6",
+          "Percentage": "0.93%"
+        },
+        {
+          "HS_Code": "30049069",
+          "Total_Value_in_USD": "16153248.1",
+          "Percentage": "0.88%"
+        },
+        {
+          "HS_Code": "30041030",
+          "Total_Value_in_USD": "5735951.69",
+          "Percentage": "0.31%"
+        }
+      ]
+    },
+    {
+      "S.No": "12",
+      "Exporter_List": "Lupin Limited",
+      "Total_Value_in_USD": "1760626056.87",
+      "Percentage": "0.15%",
+      "totalShipments": "3956",
+      "totalValue": "1849154960",
+      "shipments": "3956",
+      "buyer": "454",
+      "country": "106",
+      "port": "18",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30049057",
+          "Total_Value_in_USD": "1584223831.86",
+          "Percentage": "85.67%"
+        },
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "80987288.68",
+          "Percentage": "4.38%"
+        },
+        {
+          "HS_Code": "29419090",
+          "Total_Value_in_USD": "57401566.12",
+          "Percentage": "3.1%"
+        },
+        {
+          "HS_Code": "30021400",
+          "Total_Value_in_USD": "16559233.49",
+          "Percentage": "0.9%"
+        },
+        {
+          "HS_Code": "30042012",
+          "Total_Value_in_USD": "14137888.9",
+          "Percentage": "0.76%"
+        },
+        {
+          "HS_Code": "30042019",
+          "Total_Value_in_USD": "12365184.58",
+          "Percentage": "0.67%"
+        },
+        {
+          "HS_Code": "30049082",
+          "Total_Value_in_USD": "9717079.84",
+          "Percentage": "0.53%"
+        },
+        {
+          "HS_Code": "30049079",
+          "Total_Value_in_USD": "7355624.12",
+          "Percentage": "0.4%"
+        },
+        {
+          "HS_Code": "30049052",
+          "Total_Value_in_USD": "6516181.63",
+          "Percentage": "0.35%"
+        },
+        {
+          "HS_Code": "29419020",
+          "Total_Value_in_USD": "5628204.23",
+          "Percentage": "0.3%"
+        }
+      ]
+    },
+    {
+      "S.No": "13",
+      "Exporter_List": "Wistron Infocomm Manufacturing ( India )private Li",
+      "Total_Value_in_USD": "1724901225.79",
+      "Percentage": "0.15%",
+      "totalShipments": "7353",
+      "totalValue": "1724901226",
+      "shipments": "7353",
+      "buyer": "220",
+      "country": "34",
+      "port": "35",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "85171300",
+          "Total_Value_in_USD": "1693149402.72",
+          "Percentage": "98.16%"
+        },
+        {
+          "HS_Code": "85177990",
+          "Total_Value_in_USD": "17135869.08",
+          "Percentage": "0.99%"
+        },
+        {
+          "HS_Code": "85177910",
+          "Total_Value_in_USD": "5902090.87",
+          "Percentage": "0.34%"
+        },
+        {
+          "HS_Code": "84798999",
+          "Total_Value_in_USD": "2444887.95",
+          "Percentage": "0.14%"
+        },
+        {
+          "HS_Code": "85423100",
+          "Total_Value_in_USD": "1504664.82",
+          "Percentage": "0.09%"
+        },
+        {
+          "HS_Code": "90318000",
+          "Total_Value_in_USD": "1373871.1",
+          "Percentage": "0.08%"
+        },
+        {
+          "HS_Code": "84799090",
+          "Total_Value_in_USD": "1253617.13",
+          "Percentage": "0.07%"
+        },
+        {
+          "HS_Code": "14011000",
+          "Total_Value_in_USD": "1183371.66",
+          "Percentage": "0.07%"
+        },
+        {
+          "HS_Code": "85340000",
+          "Total_Value_in_USD": "165546.69",
+          "Percentage": "0.01%"
+        },
+        {
+          "HS_Code": "39199090",
+          "Total_Value_in_USD": "158943.35",
+          "Percentage": "0.01%"
+        }
+      ]
+    },
+    {
+      "S.No": "14",
+      "Exporter_List": "Zydus Lifesciences Limited",
+      "Total_Value_in_USD": "1638639102.84",
+      "Percentage": "0.14%",
+      "totalShipments": "9538",
+      "totalValue": "1651083304",
+      "shipments": "9538",
+      "buyer": "370",
+      "country": "93",
+      "port": "32",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30049069",
+          "Total_Value_in_USD": "863601821.57",
+          "Percentage": "52.31%"
+        },
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "400177877.79",
+          "Percentage": "24.24%"
+        },
+        {
+          "HS_Code": "30049059",
+          "Total_Value_in_USD": "95913136.61",
+          "Percentage": "5.81%"
+        },
+        {
+          "HS_Code": "30049081",
+          "Total_Value_in_USD": "65225239.76",
+          "Percentage": "3.95%"
+        },
+        {
+          "HS_Code": "30049073",
+          "Total_Value_in_USD": "50402878.36",
+          "Percentage": "3.05%"
+        },
+        {
+          "HS_Code": "30043919",
+          "Total_Value_in_USD": "23911779.94",
+          "Percentage": "1.45%"
+        },
+        {
+          "HS_Code": "30049029",
+          "Total_Value_in_USD": "19031547.18",
+          "Percentage": "1.15%"
+        },
+        {
+          "HS_Code": "30049082",
+          "Total_Value_in_USD": "17739416.96",
+          "Percentage": "1.07%"
+        },
+        {
+          "HS_Code": "30042049",
+          "Total_Value_in_USD": "17065253.35",
+          "Percentage": "1.03%"
+        },
+        {
+          "HS_Code": "30049079",
+          "Total_Value_in_USD": "15551173.07",
+          "Percentage": "0.94%"
+        }
+      ]
+    },
+    {
+      "S.No": "15",
+      "Exporter_List": "Mangalore Refinery And Petrochemicals Limited",
+      "Total_Value_in_USD": "1628774623.65",
+      "Percentage": "0.14%",
+      "totalShipments": "94",
+      "totalValue": "1915653562",
+      "shipments": "94",
+      "buyer": "22",
+      "country": "16",
+      "port": "3",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "27101939",
+          "Total_Value_in_USD": "933284042.09",
+          "Percentage": "48.72%"
+        },
+        {
+          "HS_Code": "27101944",
+          "Total_Value_in_USD": "685877064.03",
+          "Percentage": "35.8%"
+        },
+        {
+          "HS_Code": "27109900",
+          "Total_Value_in_USD": "122954561.22",
+          "Percentage": "6.42%"
+        },
+        {
+          "HS_Code": "27101961",
+          "Total_Value_in_USD": "106256375.44",
+          "Percentage": "5.55%"
+        },
+        {
+          "HS_Code": "27101290",
+          "Total_Value_in_USD": "67180129.76",
+          "Percentage": "3.51%"
+        },
+        {
+          "HS_Code": "84779000",
+          "Total_Value_in_USD": "101389.01",
+          "Percentage": "0.01%"
+        }
+      ]
+    },
+    {
+      "S.No": "16",
+      "Exporter_List": "Ipca Laboratories Limited",
+      "Total_Value_in_USD": "1496941976.9",
+      "Percentage": "0.13%",
+      "totalShipments": "7799",
+      "totalValue": "1571335220",
+      "shipments": "7799",
+      "buyer": "483",
+      "country": "139",
+      "port": "26",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30046000",
+          "Total_Value_in_USD": "663203273.82",
+          "Percentage": "42.21%"
+        },
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "488266790.67",
+          "Percentage": "31.07%"
+        },
+        {
+          "HS_Code": "30049079",
+          "Total_Value_in_USD": "138994816.62",
+          "Percentage": "8.85%"
+        },
+        {
+          "HS_Code": "30049072",
+          "Total_Value_in_USD": "43821870.12",
+          "Percentage": "2.79%"
+        },
+        {
+          "HS_Code": "30049088",
+          "Total_Value_in_USD": "34033766.41",
+          "Percentage": "2.17%"
+        },
+        {
+          "HS_Code": "30049074",
+          "Total_Value_in_USD": "30730076.59",
+          "Percentage": "1.96%"
+        },
+        {
+          "HS_Code": "29332990",
+          "Total_Value_in_USD": "12722339.18",
+          "Percentage": "0.81%"
+        },
+        {
+          "HS_Code": "30049039",
+          "Total_Value_in_USD": "12360863.33",
+          "Percentage": "0.79%"
+        },
+        {
+          "HS_Code": "30049069",
+          "Total_Value_in_USD": "11100389.6",
+          "Percentage": "0.71%"
+        },
+        {
+          "HS_Code": "30049035",
+          "Total_Value_in_USD": "10703658.37",
+          "Percentage": "0.68%"
+        }
+      ]
+    },
+    {
+      "S.No": "17",
+      "Exporter_List": "Borgwarner Cooling Systems (india) Private Limited",
+      "Total_Value_in_USD": "1462630689",
+      "Percentage": "0.12%",
+      "totalShipments": "242",
+      "totalValue": "1462630689",
+      "shipments": "242",
+      "buyer": "44",
+      "country": "12",
+      "port": "6",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "87089900",
+          "Total_Value_in_USD": "1462186083.73",
+          "Percentage": "99.97%"
+        },
+        {
+          "HS_Code": "84836090",
+          "Total_Value_in_USD": "240046.34",
+          "Percentage": "0.02%"
+        },
+        {
+          "HS_Code": "84149090",
+          "Total_Value_in_USD": "195457.81",
+          "Percentage": "0.01%"
+        },
+        {
+          "HS_Code": "84671900",
+          "Total_Value_in_USD": "9101.12",
+          "Percentage": "0%"
+        }
+      ]
+    },
+    {
+      "S.No": "18",
+      "Exporter_List": "Mobase India Private Limited",
+      "Total_Value_in_USD": "1430957795.88",
+      "Percentage": "0.12%",
+      "totalShipments": "241",
+      "totalValue": "1431085008",
+      "shipments": "241",
+      "buyer": "6",
+      "country": "3",
+      "port": "3",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "85177990",
+          "Total_Value_in_USD": "1431082982.91",
+          "Percentage": "100%"
+        },
+        {
+          "HS_Code": "84184090",
+          "Total_Value_in_USD": "1252.86",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "84561100",
+          "Total_Value_in_USD": "772.42",
+          "Percentage": "0%"
+        }
+      ]
+    },
+    {
+      "S.No": "19",
+      "Exporter_List": "Interglobe Aviation Limited",
+      "Total_Value_in_USD": "1408387823.2",
+      "Percentage": "0.12%",
+      "totalShipments": "17010",
+      "totalValue": "2694378356",
+      "shipments": "17010",
+      "buyer": "312",
+      "country": "38",
+      "port": "16",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "84111200",
+          "Total_Value_in_USD": "2232861760.73",
+          "Percentage": "82.87%"
+        },
+        {
+          "HS_Code": "90142000",
+          "Total_Value_in_USD": "48288539.16",
+          "Percentage": "1.79%"
+        },
+        {
+          "HS_Code": "88073000",
+          "Total_Value_in_USD": "48265722.21",
+          "Percentage": "1.79%"
+        },
+        {
+          "HS_Code": "84818090",
+          "Total_Value_in_USD": "43085624.94",
+          "Percentage": "1.6%"
+        },
+        {
+          "HS_Code": "90328990",
+          "Total_Value_in_USD": "38530508.11",
+          "Percentage": "1.43%"
+        },
+        {
+          "HS_Code": "84119100",
+          "Total_Value_in_USD": "36591726.14",
+          "Percentage": "1.36%"
+        },
+        {
+          "HS_Code": "85371000",
+          "Total_Value_in_USD": "25998431.97",
+          "Percentage": "0.96%"
+        },
+        {
+          "HS_Code": "84133090",
+          "Total_Value_in_USD": "18174054.42",
+          "Percentage": "0.67%"
+        },
+        {
+          "HS_Code": "88072000",
+          "Total_Value_in_USD": "16656420.81",
+          "Percentage": "0.62%"
+        },
+        {
+          "HS_Code": "84118100",
+          "Total_Value_in_USD": "14462499.24",
+          "Percentage": "0.54%"
+        }
+      ]
+    },
+    {
+      "S.No": "20",
+      "Exporter_List": "Nayara Energy Limited",
+      "Total_Value_in_USD": "1336826700.42",
+      "Percentage": "0.11%",
+      "totalShipments": "45",
+      "totalValue": "1336826822",
+      "shipments": "45",
+      "buyer": "19",
+      "country": "12",
+      "port": "2",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "27101949",
+          "Total_Value_in_USD": "633392176.24",
+          "Percentage": "47.38%"
+        },
+        {
+          "HS_Code": "27101939",
+          "Total_Value_in_USD": "338708538.41",
+          "Percentage": "25.34%"
+        },
+        {
+          "HS_Code": "27101290",
+          "Total_Value_in_USD": "190389821.71",
+          "Percentage": "14.24%"
+        },
+        {
+          "HS_Code": "27101961",
+          "Total_Value_in_USD": "156320157.31",
+          "Percentage": "11.69%"
+        },
+        {
+          "HS_Code": "27101229",
+          "Total_Value_in_USD": "18015718.35",
+          "Percentage": "1.35%"
+        },
+        {
+          "HS_Code": "38159000",
+          "Total_Value_in_USD": "410.16",
+          "Percentage": "0%"
+        }
+      ]
+    },
+    {
+      "S.No": "21",
+      "Exporter_List": "Pegatron Technology India Private Limited",
+      "Total_Value_in_USD": "1300995358.97",
+      "Percentage": "0.11%",
+      "totalShipments": "9495",
+      "totalValue": "1300995359",
+      "shipments": "9495",
+      "buyer": "117",
+      "country": "24",
+      "port": "6",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "85171300",
+          "Total_Value_in_USD": "1292469944.52",
+          "Percentage": "99.34%"
+        },
+        {
+          "HS_Code": "85177990",
+          "Total_Value_in_USD": "3978133.84",
+          "Percentage": "0.31%"
+        },
+        {
+          "HS_Code": "85177910",
+          "Total_Value_in_USD": "1356293.83",
+          "Percentage": "0.1%"
+        },
+        {
+          "HS_Code": "85423100",
+          "Total_Value_in_USD": "805695.23",
+          "Percentage": "0.06%"
+        },
+        {
+          "HS_Code": "90318000",
+          "Total_Value_in_USD": "552705.58",
+          "Percentage": "0.04%"
+        },
+        {
+          "HS_Code": "84798999",
+          "Total_Value_in_USD": "321734.43",
+          "Percentage": "0.02%"
+        },
+        {
+          "HS_Code": "73181500",
+          "Total_Value_in_USD": "286862.08",
+          "Percentage": "0.02%"
+        },
+        {
+          "HS_Code": "85241220",
+          "Total_Value_in_USD": "283125.41",
+          "Percentage": "0.02%"
+        },
+        {
+          "HS_Code": "85444299",
+          "Total_Value_in_USD": "176973.42",
+          "Percentage": "0.01%"
+        },
+        {
+          "HS_Code": "84799090",
+          "Total_Value_in_USD": "136621.42",
+          "Percentage": "0.01%"
+        }
+      ]
+    },
+    {
+      "S.No": "22",
+      "Exporter_List": "Interglobe Aviation Limited",
+      "Total_Value_in_USD": "1285990533.24",
+      "Percentage": "0.11%",
+      "totalShipments": "17010",
+      "totalValue": "2694378356",
+      "shipments": "17010",
+      "buyer": "312",
+      "country": "38",
+      "port": "16",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "84111200",
+          "Total_Value_in_USD": "2232861760.73",
+          "Percentage": "82.87%"
+        },
+        {
+          "HS_Code": "90142000",
+          "Total_Value_in_USD": "48288539.16",
+          "Percentage": "1.79%"
+        },
+        {
+          "HS_Code": "88073000",
+          "Total_Value_in_USD": "48265722.21",
+          "Percentage": "1.79%"
+        },
+        {
+          "HS_Code": "84818090",
+          "Total_Value_in_USD": "43085624.94",
+          "Percentage": "1.6%"
+        },
+        {
+          "HS_Code": "90328990",
+          "Total_Value_in_USD": "38530508.11",
+          "Percentage": "1.43%"
+        },
+        {
+          "HS_Code": "84119100",
+          "Total_Value_in_USD": "36591726.14",
+          "Percentage": "1.36%"
+        },
+        {
+          "HS_Code": "85371000",
+          "Total_Value_in_USD": "25998431.97",
+          "Percentage": "0.96%"
+        },
+        {
+          "HS_Code": "84133090",
+          "Total_Value_in_USD": "18174054.42",
+          "Percentage": "0.67%"
+        },
+        {
+          "HS_Code": "88072000",
+          "Total_Value_in_USD": "16656420.81",
+          "Percentage": "0.62%"
+        },
+        {
+          "HS_Code": "84118100",
+          "Total_Value_in_USD": "14462499.24",
+          "Percentage": "0.54%"
+        }
+      ]
+    },
+    {
+      "S.No": "23",
+      "Exporter_List": "Rubicon Research Private Limited",
+      "Total_Value_in_USD": "1252262714.63",
+      "Percentage": "0.11%",
+      "totalShipments": "2310",
+      "totalValue": "1272948803",
+      "shipments": "2310",
+      "buyer": "35",
+      "country": "13",
+      "port": "13",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30049035",
+          "Total_Value_in_USD": "299170525.06",
+          "Percentage": "23.5%"
+        },
+        {
+          "HS_Code": "30049074",
+          "Total_Value_in_USD": "261879993.55",
+          "Percentage": "20.57%"
+        },
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "234554068.94",
+          "Percentage": "18.43%"
+        },
+        {
+          "HS_Code": "30049069",
+          "Total_Value_in_USD": "226862304.72",
+          "Percentage": "17.82%"
+        },
+        {
+          "HS_Code": "30049082",
+          "Total_Value_in_USD": "117222854.38",
+          "Percentage": "9.21%"
+        },
+        {
+          "HS_Code": "30049079",
+          "Total_Value_in_USD": "54718964.39",
+          "Percentage": "4.3%"
+        },
+        {
+          "HS_Code": "30045020",
+          "Total_Value_in_USD": "40750098.74",
+          "Percentage": "3.2%"
+        },
+        {
+          "HS_Code": "30049081",
+          "Total_Value_in_USD": "24152399.41",
+          "Percentage": "1.9%"
+        },
+        {
+          "HS_Code": "30049039",
+          "Total_Value_in_USD": "10223230.46",
+          "Percentage": "0.8%"
+        },
+        {
+          "HS_Code": "24049100",
+          "Total_Value_in_USD": "3045532.92",
+          "Percentage": "0.24%"
+        }
+      ]
+    },
+    {
+      "S.No": "24",
+      "Exporter_List": "Jsw Steel Limited",
+      "Total_Value_in_USD": "1050832473.2",
+      "Percentage": "0.09%",
+      "totalShipments": "17750",
+      "totalValue": "1362315592",
+      "shipments": "17750",
+      "buyer": "384",
+      "country": "27",
+      "port": "18",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "72083940",
+          "Total_Value_in_USD": "201623978.08",
+          "Percentage": "14.8%"
+        },
+        {
+          "HS_Code": "72083840",
+          "Total_Value_in_USD": "166125528.99",
+          "Percentage": "12.19%"
+        },
+        {
+          "HS_Code": "72083740",
+          "Total_Value_in_USD": "159406494.35",
+          "Percentage": "11.7%"
+        },
+        {
+          "HS_Code": "72069019",
+          "Total_Value_in_USD": "146791622.48",
+          "Percentage": "10.78%"
+        },
+        {
+          "HS_Code": "72091730",
+          "Total_Value_in_USD": "125311959.48",
+          "Percentage": "9.2%"
+        },
+        {
+          "HS_Code": "72091630",
+          "Total_Value_in_USD": "99107955.42",
+          "Percentage": "7.27%"
+        },
+        {
+          "HS_Code": "72104990",
+          "Total_Value_in_USD": "84766396.32",
+          "Percentage": "6.22%"
+        },
+        {
+          "HS_Code": "26011141",
+          "Total_Value_in_USD": "54450590.52",
+          "Percentage": "4%"
+        },
+        {
+          "HS_Code": "72139190",
+          "Total_Value_in_USD": "53284039.32",
+          "Percentage": "3.91%"
+        },
+        {
+          "HS_Code": "72082640",
+          "Total_Value_in_USD": "43037847.85",
+          "Percentage": "3.16%"
+        }
+      ]
+    },
+    {
+      "S.No": "25",
+      "Exporter_List": "Piramal Pharma Limited",
+      "Total_Value_in_USD": "936723197.18",
+      "Percentage": "0.08%",
+      "totalShipments": "2923",
+      "totalValue": "936723197",
+      "shipments": "2923",
+      "buyer": "679",
+      "country": "91",
+      "port": "29",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "660720778.63",
+          "Percentage": "70.54%"
+        },
+        {
+          "HS_Code": "30049031",
+          "Total_Value_in_USD": "111004666.09",
+          "Percentage": "11.85%"
+        },
+        {
+          "HS_Code": "29333990",
+          "Total_Value_in_USD": "44929723.98",
+          "Percentage": "4.8%"
+        },
+        {
+          "HS_Code": "29091990",
+          "Total_Value_in_USD": "20059837.34",
+          "Percentage": "2.14%"
+        },
+        {
+          "HS_Code": "30039090",
+          "Total_Value_in_USD": "17933983.73",
+          "Percentage": "1.91%"
+        },
+        {
+          "HS_Code": "29332990",
+          "Total_Value_in_USD": "11974632.63",
+          "Percentage": "1.28%"
+        },
+        {
+          "HS_Code": "29371900",
+          "Total_Value_in_USD": "11004676.88",
+          "Percentage": "1.17%"
+        },
+        {
+          "HS_Code": "29225090",
+          "Total_Value_in_USD": "6799307.16",
+          "Percentage": "0.73%"
+        },
+        {
+          "HS_Code": "29335990",
+          "Total_Value_in_USD": "4295848",
+          "Percentage": "0.46%"
+        },
+        {
+          "HS_Code": "29333929",
+          "Total_Value_in_USD": "4091662.06",
+          "Percentage": "0.44%"
+        }
+      ]
+    },
+    {
+      "S.No": "26",
+      "Exporter_List": "Maruti Suzuki India Limited",
+      "Total_Value_in_USD": "928230762.22",
+      "Percentage": "0.08%",
+      "totalShipments": "469130",
+      "totalValue": "1446996384",
+      "shipments": "469130",
+      "buyer": "650",
+      "country": "137",
+      "port": "57",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "87032291",
+          "Total_Value_in_USD": "1135961515.96",
+          "Percentage": "78.5%"
+        },
+        {
+          "HS_Code": "87032191",
+          "Total_Value_in_USD": "181914363.37",
+          "Percentage": "12.57%"
+        },
+        {
+          "HS_Code": "85076000",
+          "Total_Value_in_USD": "46646028.7",
+          "Percentage": "3.22%"
+        },
+        {
+          "HS_Code": "87043100",
+          "Total_Value_in_USD": "33965878.67",
+          "Percentage": "2.35%"
+        },
+        {
+          "HS_Code": "87089900",
+          "Total_Value_in_USD": "16980917.37",
+          "Percentage": "1.17%"
+        },
+        {
+          "HS_Code": "87038030",
+          "Total_Value_in_USD": "6036856.9",
+          "Percentage": "0.42%"
+        },
+        {
+          "HS_Code": "73089090",
+          "Total_Value_in_USD": "3837592.31",
+          "Percentage": "0.27%"
+        },
+        {
+          "HS_Code": "87032491",
+          "Total_Value_in_USD": "2586386.58",
+          "Percentage": "0.18%"
+        },
+        {
+          "HS_Code": "87082900",
+          "Total_Value_in_USD": "2337260.3",
+          "Percentage": "0.16%"
+        },
+        {
+          "HS_Code": "87088000",
+          "Total_Value_in_USD": "1607800.34",
+          "Percentage": "0.11%"
+        }
+      ]
+    },
+    {
+      "S.No": "27",
+      "Exporter_List": "Hindalco Industries Limited",
+      "Total_Value_in_USD": "890429270.6",
+      "Percentage": "0.07%",
+      "totalShipments": "10342",
+      "totalValue": "1489016623",
+      "shipments": "10342",
+      "buyer": "769",
+      "country": "57",
+      "port": "42",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "76011010",
+          "Total_Value_in_USD": "667263102.59",
+          "Percentage": "44.81%"
+        },
+        {
+          "HS_Code": "74081190",
+          "Total_Value_in_USD": "264231829.25",
+          "Percentage": "17.75%"
+        },
+        {
+          "HS_Code": "89012000",
+          "Total_Value_in_USD": "234861827.04",
+          "Percentage": "15.77%"
+        },
+        {
+          "HS_Code": "74031100",
+          "Total_Value_in_USD": "122957581.35",
+          "Percentage": "8.26%"
+        },
+        {
+          "HS_Code": "76061200",
+          "Total_Value_in_USD": "48987643.33",
+          "Percentage": "3.29%"
+        },
+        {
+          "HS_Code": "28182019",
+          "Total_Value_in_USD": "31330662.31",
+          "Percentage": "2.1%"
+        },
+        {
+          "HS_Code": "76051100",
+          "Total_Value_in_USD": "22153014.72",
+          "Percentage": "1.49%"
+        },
+        {
+          "HS_Code": "76061190",
+          "Total_Value_in_USD": "18464134.67",
+          "Percentage": "1.24%"
+        },
+        {
+          "HS_Code": "71129990",
+          "Total_Value_in_USD": "14616105.07",
+          "Percentage": "0.98%"
+        },
+        {
+          "HS_Code": "74040019",
+          "Total_Value_in_USD": "13157079.44",
+          "Percentage": "0.88%"
+        }
+      ]
+    },
+    {
+      "S.No": "28",
+      "Exporter_List": "Sandoz Private Limited",
+      "Total_Value_in_USD": "884811561.73",
+      "Percentage": "0.07%",
+      "totalShipments": "2947",
+      "totalValue": "914324580",
+      "shipments": "2947",
+      "buyer": "148",
+      "country": "51",
+      "port": "23",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "397594169.5",
+          "Percentage": "43.49%"
+        },
+        {
+          "HS_Code": "30049034",
+          "Total_Value_in_USD": "154765919.06",
+          "Percentage": "16.93%"
+        },
+        {
+          "HS_Code": "30049081",
+          "Total_Value_in_USD": "130095166.37",
+          "Percentage": "14.23%"
+        },
+        {
+          "HS_Code": "30049039",
+          "Total_Value_in_USD": "109552877.49",
+          "Percentage": "11.98%"
+        },
+        {
+          "HS_Code": "30049079",
+          "Total_Value_in_USD": "51676825.58",
+          "Percentage": "5.65%"
+        },
+        {
+          "HS_Code": "30049082",
+          "Total_Value_in_USD": "46273766.47",
+          "Percentage": "5.06%"
+        },
+        {
+          "HS_Code": "30049055",
+          "Total_Value_in_USD": "9157262.81",
+          "Percentage": "1%"
+        },
+        {
+          "HS_Code": "30049088",
+          "Total_Value_in_USD": "4901469.77",
+          "Percentage": "0.54%"
+        },
+        {
+          "HS_Code": "30049057",
+          "Total_Value_in_USD": "4347582.66",
+          "Percentage": "0.48%"
+        },
+        {
+          "HS_Code": "30049029",
+          "Total_Value_in_USD": "2495683.53",
+          "Percentage": "0.27%"
+        }
+      ]
+    },
+    {
+      "S.No": "29",
+      "Exporter_List": "Indian Oil Corporation Limited",
+      "Total_Value_in_USD": "883452322.4",
+      "Percentage": "0.07%",
+      "totalShipments": "67245",
+      "totalValue": "3426080931",
+      "shipments": "67245",
+      "buyer": "981",
+      "country": "60",
+      "port": "62",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "27101944",
+          "Total_Value_in_USD": "1421563663.41",
+          "Percentage": "41.49%"
+        },
+        {
+          "HS_Code": "27101221",
+          "Total_Value_in_USD": "647162188.96",
+          "Percentage": "18.89%"
+        },
+        {
+          "HS_Code": "27101241",
+          "Total_Value_in_USD": "317494035.94",
+          "Percentage": "9.27%"
+        },
+        {
+          "HS_Code": "27111990",
+          "Total_Value_in_USD": "264518527.57",
+          "Percentage": "7.72%"
+        },
+        {
+          "HS_Code": "27101949",
+          "Total_Value_in_USD": "182863878.23",
+          "Percentage": "5.34%"
+        },
+        {
+          "HS_Code": "27101939",
+          "Total_Value_in_USD": "120042509.98",
+          "Percentage": "3.5%"
+        },
+        {
+          "HS_Code": "27101953",
+          "Total_Value_in_USD": "99786804.4",
+          "Percentage": "2.91%"
+        },
+        {
+          "HS_Code": "29022000",
+          "Total_Value_in_USD": "87387180.23",
+          "Percentage": "2.55%"
+        },
+        {
+          "HS_Code": "27101290",
+          "Total_Value_in_USD": "77548300.96",
+          "Percentage": "2.26%"
+        },
+        {
+          "HS_Code": "27101951",
+          "Total_Value_in_USD": "68399149.08",
+          "Percentage": "2%"
+        }
+      ]
+    },
+    {
+      "S.No": "30",
+      "Exporter_List": "Swarovski India Private Limited.",
+      "Total_Value_in_USD": "882868091.26",
+      "Percentage": "0.07%",
+      "totalShipments": "461",
+      "totalValue": "882868091",
+      "shipments": "461",
+      "buyer": "11",
+      "country": "6",
+      "port": "9",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "70181020",
+          "Total_Value_in_USD": "831186974.64",
+          "Percentage": "94.15%"
+        },
+        {
+          "HS_Code": "95051000",
+          "Total_Value_in_USD": "29861787.36",
+          "Percentage": "3.38%"
+        },
+        {
+          "HS_Code": "70139900",
+          "Total_Value_in_USD": "17433147.48",
+          "Percentage": "1.97%"
+        },
+        {
+          "HS_Code": "95059090",
+          "Total_Value_in_USD": "2743571.7",
+          "Percentage": "0.31%"
+        },
+        {
+          "HS_Code": "70181090",
+          "Total_Value_in_USD": "1642428.85",
+          "Percentage": "0.19%"
+        },
+        {
+          "HS_Code": "42029900",
+          "Total_Value_in_USD": "181.23",
+          "Percentage": "0%"
+        }
+      ]
+    },
+    {
+      "S.No": "31",
+      "Exporter_List": "Sun Pharmaceutical Industries Limited",
+      "Total_Value_in_USD": "880102143.6",
+      "Percentage": "0.07%",
+      "totalShipments": "17711",
+      "totalValue": "1081543894",
+      "shipments": "17711",
+      "buyer": "807",
+      "country": "114",
+      "port": "37",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "512981587.93",
+          "Percentage": "47.43%"
+        },
+        {
+          "HS_Code": "30049049",
+          "Total_Value_in_USD": "181526259.9",
+          "Percentage": "16.78%"
+        },
+        {
+          "HS_Code": "30049039",
+          "Total_Value_in_USD": "104595787.35",
+          "Percentage": "9.67%"
+        },
+        {
+          "HS_Code": "30049079",
+          "Total_Value_in_USD": "29810050.6",
+          "Percentage": "2.76%"
+        },
+        {
+          "HS_Code": "29420090",
+          "Total_Value_in_USD": "20871094.47",
+          "Percentage": "1.93%"
+        },
+        {
+          "HS_Code": "30049082",
+          "Total_Value_in_USD": "18408349.02",
+          "Percentage": "1.7%"
+        },
+        {
+          "HS_Code": "30041030",
+          "Total_Value_in_USD": "17346994.62",
+          "Percentage": "1.6%"
+        },
+        {
+          "HS_Code": "29339990",
+          "Total_Value_in_USD": "16980680.65",
+          "Percentage": "1.57%"
+        },
+        {
+          "HS_Code": "29395900",
+          "Total_Value_in_USD": "14830359.76",
+          "Percentage": "1.37%"
+        },
+        {
+          "HS_Code": "30042019",
+          "Total_Value_in_USD": "10272912.11",
+          "Percentage": "0.95%"
+        }
+      ]
+    },
+    {
+      "S.No": "32",
+      "Exporter_List": "Tdk India Private Limited",
+      "Total_Value_in_USD": "855302803.43",
+      "Percentage": "0.07%",
+      "totalShipments": "21948",
+      "totalValue": "880025285",
+      "shipments": "21948",
+      "buyer": "370",
+      "country": "43",
+      "port": "14",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "85322500",
+          "Total_Value_in_USD": "860088382.38",
+          "Percentage": "97.73%"
+        },
+        {
+          "HS_Code": "85321000",
+          "Total_Value_in_USD": "9879999.43",
+          "Percentage": "1.12%"
+        },
+        {
+          "HS_Code": "85051110",
+          "Total_Value_in_USD": "6818735.5",
+          "Percentage": "0.77%"
+        },
+        {
+          "HS_Code": "85045090",
+          "Total_Value_in_USD": "1022060.77",
+          "Percentage": "0.12%"
+        },
+        {
+          "HS_Code": "85043100",
+          "Total_Value_in_USD": "823033.98",
+          "Percentage": "0.09%"
+        },
+        {
+          "HS_Code": "38249900",
+          "Total_Value_in_USD": "503585.54",
+          "Percentage": "0.06%"
+        },
+        {
+          "HS_Code": "85364900",
+          "Total_Value_in_USD": "468384.59",
+          "Percentage": "0.05%"
+        },
+        {
+          "HS_Code": "85437099",
+          "Total_Value_in_USD": "315632.93",
+          "Percentage": "0.04%"
+        },
+        {
+          "HS_Code": "90328910",
+          "Total_Value_in_USD": "42525.75",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "85365090",
+          "Total_Value_in_USD": "21175.14",
+          "Percentage": "0%"
+        }
+      ]
+    },
+    {
+      "S.No": "33",
+      "Exporter_List": "Intas Pharmaceuticals Limited",
+      "Total_Value_in_USD": "800300801.5",
+      "Percentage": "0.07%",
+      "totalShipments": "16939",
+      "totalValue": "888323285",
+      "shipments": "16939",
+      "buyer": "597",
+      "country": "99",
+      "port": "19",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "585544804.21",
+          "Percentage": "65.92%"
+        },
+        {
+          "HS_Code": "30049049",
+          "Total_Value_in_USD": "120321250.94",
+          "Percentage": "13.54%"
+        },
+        {
+          "HS_Code": "30021500",
+          "Total_Value_in_USD": "48342250.45",
+          "Percentage": "5.44%"
+        },
+        {
+          "HS_Code": "30049082",
+          "Total_Value_in_USD": "39032242.41",
+          "Percentage": "4.39%"
+        },
+        {
+          "HS_Code": "30049079",
+          "Total_Value_in_USD": "28112047.96",
+          "Percentage": "3.16%"
+        },
+        {
+          "HS_Code": "30049089",
+          "Total_Value_in_USD": "21918623.66",
+          "Percentage": "2.47%"
+        },
+        {
+          "HS_Code": "30049081",
+          "Total_Value_in_USD": "3716312.23",
+          "Percentage": "0.42%"
+        },
+        {
+          "HS_Code": "30049047",
+          "Total_Value_in_USD": "3146281.02",
+          "Percentage": "0.35%"
+        },
+        {
+          "HS_Code": "30021290",
+          "Total_Value_in_USD": "3023560.41",
+          "Percentage": "0.34%"
+        },
+        {
+          "HS_Code": "30049044",
+          "Total_Value_in_USD": "2761423.04",
+          "Percentage": "0.31%"
+        }
+      ]
+    },
+    {
+      "S.No": "34",
+      "Exporter_List": "Shree Ramkrishna Exports Private Limited",
+      "Total_Value_in_USD": "782917700.13",
+      "Percentage": "0.07%",
+      "totalShipments": "141538",
+      "totalValue": "1180237791",
+      "shipments": "141538",
+      "buyer": "1639",
+      "country": "50",
+      "port": "8",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "71023910",
+          "Total_Value_in_USD": "1165492710.22",
+          "Percentage": "98.75%"
+        },
+        {
+          "HS_Code": "71023100",
+          "Total_Value_in_USD": "14648629.73",
+          "Percentage": "1.24%"
+        },
+        {
+          "HS_Code": "71131913",
+          "Total_Value_in_USD": "26261.77",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "71131923",
+          "Total_Value_in_USD": "21177.12",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "84797900",
+          "Total_Value_in_USD": "18390.5",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "71131919",
+          "Total_Value_in_USD": "5903.7",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "90129000",
+          "Total_Value_in_USD": "4342.49",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "84715000",
+          "Total_Value_in_USD": "3908.23",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "84148090",
+          "Total_Value_in_USD": "3776.07",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "71131144",
+          "Total_Value_in_USD": "3129.69",
+          "Percentage": "0%"
+        }
+      ]
+    },
+    {
+      "S.No": "35",
+      "Exporter_List": "Reliance Industries Limited",
+      "Total_Value_in_USD": "780073519.41",
+      "Percentage": "0.07%",
+      "totalShipments": "29708",
+      "totalValue": "3862146193",
+      "shipments": "29708",
+      "buyer": "1295",
+      "country": "100",
+      "port": "108",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "27101939",
+          "Total_Value_in_USD": "1194087051.44",
+          "Percentage": "30.92%"
+        },
+        {
+          "HS_Code": "27101944",
+          "Total_Value_in_USD": "693676274.5",
+          "Percentage": "17.96%"
+        },
+        {
+          "HS_Code": "27101241",
+          "Total_Value_in_USD": "299348012.34",
+          "Percentage": "7.75%"
+        },
+        {
+          "HS_Code": "97019900",
+          "Total_Value_in_USD": "231841108.31",
+          "Percentage": "6%"
+        },
+        {
+          "HS_Code": "27101942",
+          "Total_Value_in_USD": "211980708.82",
+          "Percentage": "5.49%"
+        },
+        {
+          "HS_Code": "27101221",
+          "Total_Value_in_USD": "209096387.22",
+          "Percentage": "5.41%"
+        },
+        {
+          "HS_Code": "39076190",
+          "Total_Value_in_USD": "193540202.17",
+          "Percentage": "5.01%"
+        },
+        {
+          "HS_Code": "89012000",
+          "Total_Value_in_USD": "112503926.52",
+          "Percentage": "2.91%"
+        },
+        {
+          "HS_Code": "29022000",
+          "Total_Value_in_USD": "81987724.74",
+          "Percentage": "2.12%"
+        },
+        {
+          "HS_Code": "39014010",
+          "Total_Value_in_USD": "59639649.59",
+          "Percentage": "1.54%"
+        }
+      ]
+    },
+    {
+      "S.No": "36",
+      "Exporter_List": "Vedanta Limited",
+      "Total_Value_in_USD": "712295556.86",
+      "Percentage": "0.06%",
+      "totalShipments": "1917",
+      "totalValue": "712295557",
+      "shipments": "1917",
+      "buyer": "129",
+      "country": "23",
+      "port": "26",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "74081190",
+          "Total_Value_in_USD": "216957832.09",
+          "Percentage": "30.46%"
+        },
+        {
+          "HS_Code": "26011141",
+          "Total_Value_in_USD": "154615057.82",
+          "Percentage": "21.71%"
+        },
+        {
+          "HS_Code": "76011010",
+          "Total_Value_in_USD": "142627165.46",
+          "Percentage": "20.02%"
+        },
+        {
+          "HS_Code": "72011000",
+          "Total_Value_in_USD": "65789040.32",
+          "Percentage": "9.24%"
+        },
+        {
+          "HS_Code": "26011142",
+          "Total_Value_in_USD": "48148498.95",
+          "Percentage": "6.76%"
+        },
+        {
+          "HS_Code": "26011121",
+          "Total_Value_in_USD": "37758707.67",
+          "Percentage": "5.3%"
+        },
+        {
+          "HS_Code": "71129990",
+          "Total_Value_in_USD": "23177481.75",
+          "Percentage": "3.25%"
+        },
+        {
+          "HS_Code": "76012010",
+          "Total_Value_in_USD": "14065620.22",
+          "Percentage": "1.97%"
+        },
+        {
+          "HS_Code": "76012020",
+          "Total_Value_in_USD": "6412271.35",
+          "Percentage": "0.9%"
+        },
+        {
+          "HS_Code": "76051100",
+          "Total_Value_in_USD": "1767691.93",
+          "Percentage": "0.25%"
+        }
+      ]
+    },
+    {
+      "S.No": "37",
+      "Exporter_List": "Hyundai Motor India Limited",
+      "Total_Value_in_USD": "703793510.99",
+      "Percentage": "0.06%",
+      "totalShipments": "14546",
+      "totalValue": "1282254179",
+      "shipments": "14546",
+      "buyer": "228",
+      "country": "78",
+      "port": "9",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "87032291",
+          "Total_Value_in_USD": "910911473.51",
+          "Percentage": "71.04%"
+        },
+        {
+          "HS_Code": "87032191",
+          "Total_Value_in_USD": "180742420.5",
+          "Percentage": "14.1%"
+        },
+        {
+          "HS_Code": "87032391",
+          "Total_Value_in_USD": "148417756.93",
+          "Percentage": "11.57%"
+        },
+        {
+          "HS_Code": "87084000",
+          "Total_Value_in_USD": "27259099.76",
+          "Percentage": "2.13%"
+        },
+        {
+          "HS_Code": "84073410",
+          "Total_Value_in_USD": "7389256.76",
+          "Percentage": "0.58%"
+        },
+        {
+          "HS_Code": "87033191",
+          "Total_Value_in_USD": "6202106.18",
+          "Percentage": "0.48%"
+        },
+        {
+          "HS_Code": "73269099",
+          "Total_Value_in_USD": "709912.52",
+          "Percentage": "0.06%"
+        },
+        {
+          "HS_Code": "84082020",
+          "Total_Value_in_USD": "228542.93",
+          "Percentage": "0.02%"
+        },
+        {
+          "HS_Code": "90318000",
+          "Total_Value_in_USD": "52138.92",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "84669310",
+          "Total_Value_in_USD": "49727.94",
+          "Percentage": "0%"
+        }
+      ]
+    },
+    {
+      "S.No": "38",
+      "Exporter_List": "Bajaj Auto Limited.",
+      "Total_Value_in_USD": "647142731.76",
+      "Percentage": "0.05%",
+      "totalShipments": "188905",
+      "totalValue": "647142732",
+      "shipments": "188905",
+      "buyer": "314",
+      "country": "96",
+      "port": "14",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "87112029",
+          "Total_Value_in_USD": "359036971.24",
+          "Percentage": "55.48%"
+        },
+        {
+          "HS_Code": "87113020",
+          "Total_Value_in_USD": "105088600.64",
+          "Percentage": "16.24%"
+        },
+        {
+          "HS_Code": "87032120",
+          "Total_Value_in_USD": "64569013.82",
+          "Percentage": "9.98%"
+        },
+        {
+          "HS_Code": "87141090",
+          "Total_Value_in_USD": "39908902.16",
+          "Percentage": "6.17%"
+        },
+        {
+          "HS_Code": "87060031",
+          "Total_Value_in_USD": "10934764.69",
+          "Percentage": "1.69%"
+        },
+        {
+          "HS_Code": "84073210",
+          "Total_Value_in_USD": "9720112.13",
+          "Percentage": "1.5%"
+        },
+        {
+          "HS_Code": "87089900",
+          "Total_Value_in_USD": "7683188.6",
+          "Percentage": "1.19%"
+        },
+        {
+          "HS_Code": "87032199",
+          "Total_Value_in_USD": "6648157.47",
+          "Percentage": "1.03%"
+        },
+        {
+          "HS_Code": "87081090",
+          "Total_Value_in_USD": "3722613.13",
+          "Percentage": "0.58%"
+        },
+        {
+          "HS_Code": "87071000",
+          "Total_Value_in_USD": "3432706.08",
+          "Percentage": "0.53%"
+        }
+      ]
+    },
+    {
+      "S.No": "39",
+      "Exporter_List": "Samsung India Electronics Private Limited",
+      "Total_Value_in_USD": "638899130.37",
+      "Percentage": "0.05%",
+      "totalShipments": "62216",
+      "totalValue": "24107710849",
+      "shipments": "62216",
+      "buyer": "514",
+      "country": "78",
+      "port": "24",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "85322990",
+          "Total_Value_in_USD": "9636291837.81",
+          "Percentage": "39.97%"
+        },
+        {
+          "HS_Code": "85177990",
+          "Total_Value_in_USD": "5089811223.32",
+          "Percentage": "21.11%"
+        },
+        {
+          "HS_Code": "85249220",
+          "Total_Value_in_USD": "4575933690.68",
+          "Percentage": "18.98%"
+        },
+        {
+          "HS_Code": "85171300",
+          "Total_Value_in_USD": "2785641026.9",
+          "Percentage": "11.55%"
+        },
+        {
+          "HS_Code": "85423900",
+          "Total_Value_in_USD": "1358605033.88",
+          "Percentage": "5.64%"
+        },
+        {
+          "HS_Code": "85423100",
+          "Total_Value_in_USD": "355156825.01",
+          "Percentage": "1.47%"
+        },
+        {
+          "HS_Code": "85423300",
+          "Total_Value_in_USD": "143411386.83",
+          "Percentage": "0.59%"
+        },
+        {
+          "HS_Code": "85258900",
+          "Total_Value_in_USD": "66583493.12",
+          "Percentage": "0.28%"
+        },
+        {
+          "HS_Code": "85423200",
+          "Total_Value_in_USD": "36447673.74",
+          "Percentage": "0.15%"
+        },
+        {
+          "HS_Code": "85340000",
+          "Total_Value_in_USD": "23638000.16",
+          "Percentage": "0.1%"
+        }
+      ]
+    },
+    {
+      "S.No": "40",
+      "Exporter_List": "Hindustan Zinc Limited",
+      "Total_Value_in_USD": "606366151.42",
+      "Percentage": "0.05%",
+      "totalShipments": "1452",
+      "totalValue": "606366151",
+      "shipments": "1452",
+      "buyer": "133",
+      "country": "41",
+      "port": "19",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "79011100",
+          "Total_Value_in_USD": "443424207.63",
+          "Percentage": "73.13%"
+        },
+        {
+          "HS_Code": "78011000",
+          "Total_Value_in_USD": "128224488.39",
+          "Percentage": "21.15%"
+        },
+        {
+          "HS_Code": "74010010",
+          "Total_Value_in_USD": "8364450.93",
+          "Percentage": "1.38%"
+        },
+        {
+          "HS_Code": "79011200",
+          "Total_Value_in_USD": "7291128.93",
+          "Percentage": "1.2%"
+        },
+        {
+          "HS_Code": "71129990",
+          "Total_Value_in_USD": "6556800.86",
+          "Percentage": "1.08%"
+        },
+        {
+          "HS_Code": "79012010",
+          "Total_Value_in_USD": "6264711.86",
+          "Percentage": "1.03%"
+        },
+        {
+          "HS_Code": "28170010",
+          "Total_Value_in_USD": "4423126.77",
+          "Percentage": "0.73%"
+        },
+        {
+          "HS_Code": "26201990",
+          "Total_Value_in_USD": "1255535.71",
+          "Percentage": "0.21%"
+        },
+        {
+          "HS_Code": "26209100",
+          "Total_Value_in_USD": "561651.11",
+          "Percentage": "0.09%"
+        },
+        {
+          "HS_Code": "26179000",
+          "Total_Value_in_USD": "37.16",
+          "Percentage": "0%"
+        }
+      ]
+    },
+    {
+      "S.No": "41",
+      "Exporter_List": "Iss Shipping India Private Limited",
+      "Total_Value_in_USD": "603844136.68",
+      "Percentage": "0.05%",
+      "totalShipments": "8",
+      "totalValue": "620594109",
+      "shipments": "8",
+      "buyer": "5",
+      "country": "6",
+      "port": "4",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "89011010",
+          "Total_Value_in_USD": "603838020.75",
+          "Percentage": "97.3%"
+        },
+        {
+          "HS_Code": "89012000",
+          "Total_Value_in_USD": "16749960.26",
+          "Percentage": "2.7%"
+        },
+        {
+          "HS_Code": "69022020",
+          "Total_Value_in_USD": "6115.93",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "85389000",
+          "Total_Value_in_USD": "11.93",
+          "Percentage": "0%"
+        }
+      ]
+    },
+    {
+      "S.No": "42",
+      "Exporter_List": "Hindalco Industries Limited",
+      "Total_Value_in_USD": "598587351.9",
+      "Percentage": "0.05%",
+      "totalShipments": "10342",
+      "totalValue": "1489016623",
+      "shipments": "10342",
+      "buyer": "769",
+      "country": "57",
+      "port": "42",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "76011010",
+          "Total_Value_in_USD": "667263102.59",
+          "Percentage": "44.81%"
+        },
+        {
+          "HS_Code": "74081190",
+          "Total_Value_in_USD": "264231829.25",
+          "Percentage": "17.75%"
+        },
+        {
+          "HS_Code": "89012000",
+          "Total_Value_in_USD": "234861827.04",
+          "Percentage": "15.77%"
+        },
+        {
+          "HS_Code": "74031100",
+          "Total_Value_in_USD": "122957581.35",
+          "Percentage": "8.26%"
+        },
+        {
+          "HS_Code": "76061200",
+          "Total_Value_in_USD": "48987643.33",
+          "Percentage": "3.29%"
+        },
+        {
+          "HS_Code": "28182019",
+          "Total_Value_in_USD": "31330662.31",
+          "Percentage": "2.1%"
+        },
+        {
+          "HS_Code": "76051100",
+          "Total_Value_in_USD": "22153014.72",
+          "Percentage": "1.49%"
+        },
+        {
+          "HS_Code": "76061190",
+          "Total_Value_in_USD": "18464134.67",
+          "Percentage": "1.24%"
+        },
+        {
+          "HS_Code": "71129990",
+          "Total_Value_in_USD": "14616105.07",
+          "Percentage": "0.98%"
+        },
+        {
+          "HS_Code": "74040019",
+          "Total_Value_in_USD": "13157079.44",
+          "Percentage": "0.88%"
+        }
+      ]
+    },
+    {
+      "S.No": "43",
+      "Exporter_List": "Hetero Labs Limited",
+      "Total_Value_in_USD": "586115516.64",
+      "Percentage": "0.05%",
+      "totalShipments": "2092",
+      "totalValue": "146331260",
+      "shipments": "2092",
+      "buyer": "301",
+      "country": "111",
+      "port": "7",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "30049099",
+          "Total_Value_in_USD": "71254494.93",
+          "Percentage": "48.69%"
+        },
+        {
+          "HS_Code": "30049072",
+          "Total_Value_in_USD": "13425467.58",
+          "Percentage": "9.17%"
+        },
+        {
+          "HS_Code": "30049087",
+          "Total_Value_in_USD": "6607494.55",
+          "Percentage": "4.52%"
+        },
+        {
+          "HS_Code": "30049079",
+          "Total_Value_in_USD": "6270177.49",
+          "Percentage": "4.28%"
+        },
+        {
+          "HS_Code": "29339990",
+          "Total_Value_in_USD": "6175760.41",
+          "Percentage": "4.22%"
+        },
+        {
+          "HS_Code": "29349990",
+          "Total_Value_in_USD": "4738394.03",
+          "Percentage": "3.24%"
+        },
+        {
+          "HS_Code": "29372900",
+          "Total_Value_in_USD": "3548676.89",
+          "Percentage": "2.43%"
+        },
+        {
+          "HS_Code": "29269000",
+          "Total_Value_in_USD": "3471569.35",
+          "Percentage": "2.37%"
+        },
+        {
+          "HS_Code": "29333990",
+          "Total_Value_in_USD": "3085168.22",
+          "Percentage": "2.11%"
+        },
+        {
+          "HS_Code": "30049082",
+          "Total_Value_in_USD": "2831168.86",
+          "Percentage": "1.93%"
+        }
+      ]
+    },
+    {
+      "S.No": "44",
+      "Exporter_List": "Hyundai Motor India Limited",
+      "Total_Value_in_USD": "578460668.29",
+      "Percentage": "0.05%",
+      "totalShipments": "14546",
+      "totalValue": "1282254179",
+      "shipments": "14546",
+      "buyer": "228",
+      "country": "78",
+      "port": "9",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "87032291",
+          "Total_Value_in_USD": "910911473.51",
+          "Percentage": "71.04%"
+        },
+        {
+          "HS_Code": "87032191",
+          "Total_Value_in_USD": "180742420.5",
+          "Percentage": "14.1%"
+        },
+        {
+          "HS_Code": "87032391",
+          "Total_Value_in_USD": "148417756.93",
+          "Percentage": "11.57%"
+        },
+        {
+          "HS_Code": "87084000",
+          "Total_Value_in_USD": "27259099.76",
+          "Percentage": "2.13%"
+        },
+        {
+          "HS_Code": "84073410",
+          "Total_Value_in_USD": "7389256.76",
+          "Percentage": "0.58%"
+        },
+        {
+          "HS_Code": "87033191",
+          "Total_Value_in_USD": "6202106.18",
+          "Percentage": "0.48%"
+        },
+        {
+          "HS_Code": "73269099",
+          "Total_Value_in_USD": "709912.52",
+          "Percentage": "0.06%"
+        },
+        {
+          "HS_Code": "84082020",
+          "Total_Value_in_USD": "228542.93",
+          "Percentage": "0.02%"
+        },
+        {
+          "HS_Code": "90318000",
+          "Total_Value_in_USD": "52138.92",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "84669310",
+          "Total_Value_in_USD": "49727.94",
+          "Percentage": "0%"
+        }
+      ]
+    },
+    {
+      "S.No": "45",
+      "Exporter_List": "Bajaj Auto Limited",
+      "Total_Value_in_USD": "575646937.5",
+      "Percentage": "0.05%",
+      "totalShipments": "179041",
+      "totalValue": "575646937",
+      "shipments": "179041",
+      "buyer": "311",
+      "country": "87",
+      "port": "41",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "87112029",
+          "Total_Value_in_USD": "343499566.77",
+          "Percentage": "59.67%"
+        },
+        {
+          "HS_Code": "87032120",
+          "Total_Value_in_USD": "65956028.82",
+          "Percentage": "11.46%"
+        },
+        {
+          "HS_Code": "87113020",
+          "Total_Value_in_USD": "59272217.03",
+          "Percentage": "10.3%"
+        },
+        {
+          "HS_Code": "87141090",
+          "Total_Value_in_USD": "29127252.64",
+          "Percentage": "5.06%"
+        },
+        {
+          "HS_Code": "84073210",
+          "Total_Value_in_USD": "12819118.15",
+          "Percentage": "2.23%"
+        },
+        {
+          "HS_Code": "87060031",
+          "Total_Value_in_USD": "12480613.8",
+          "Percentage": "2.17%"
+        },
+        {
+          "HS_Code": "87089900",
+          "Total_Value_in_USD": "5195357.82",
+          "Percentage": "0.9%"
+        },
+        {
+          "HS_Code": "87071000",
+          "Total_Value_in_USD": "4124378.55",
+          "Percentage": "0.72%"
+        },
+        {
+          "HS_Code": "87032199",
+          "Total_Value_in_USD": "3181634.57",
+          "Percentage": "0.55%"
+        },
+        {
+          "HS_Code": "87081090",
+          "Total_Value_in_USD": "2741547.94",
+          "Percentage": "0.48%"
+        }
+      ]
+    },
+    {
+      "S.No": "46",
+      "Exporter_List": "Parksons Packaging Limited",
+      "Total_Value_in_USD": "552955117.79",
+      "Percentage": "0.05%",
+      "totalShipments": "4872",
+      "totalValue": "556834323",
+      "shipments": "4872",
+      "buyer": "116",
+      "country": "25",
+      "port": "70",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "48192020",
+          "Total_Value_in_USD": "556452536.64",
+          "Percentage": "99.93%"
+        },
+        {
+          "HS_Code": "48195090",
+          "Total_Value_in_USD": "160193.46",
+          "Percentage": "0.03%"
+        },
+        {
+          "HS_Code": "48109900",
+          "Total_Value_in_USD": "56512.08",
+          "Percentage": "0.01%"
+        },
+        {
+          "HS_Code": "48195010",
+          "Total_Value_in_USD": "40153.91",
+          "Percentage": "0.01%"
+        },
+        {
+          "HS_Code": "48191010",
+          "Total_Value_in_USD": "35404.32",
+          "Percentage": "0.01%"
+        },
+        {
+          "HS_Code": "48115990",
+          "Total_Value_in_USD": "18467.67",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "84425020",
+          "Total_Value_in_USD": "13939.88",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "39235010",
+          "Total_Value_in_USD": "7024.03",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "48236900",
+          "Total_Value_in_USD": "6985.19",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "39206290",
+          "Total_Value_in_USD": "5332.62",
+          "Percentage": "0%"
+        }
+      ]
+    },
+    {
+      "S.No": "47",
+      "Exporter_List": "M D Overseas Private Limited",
+      "Total_Value_in_USD": "540541304.38",
+      "Percentage": "0.05%",
+      "totalShipments": "53",
+      "totalValue": "540541304",
+      "shipments": "53",
+      "buyer": "5",
+      "country": "3",
+      "port": "2",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "71131911",
+          "Total_Value_in_USD": "540433690.94",
+          "Percentage": "99.98%"
+        },
+        {
+          "HS_Code": "71081200",
+          "Total_Value_in_USD": "107613.44",
+          "Percentage": "0.02%"
+        }
+      ]
+    },
+    {
+      "S.No": "48",
+      "Exporter_List": "Pgp Glass Private Limited",
+      "Total_Value_in_USD": "535419193.59",
+      "Percentage": "0.05%",
+      "totalShipments": "14235",
+      "totalValue": "535419194",
+      "shipments": "14235",
+      "buyer": "577",
+      "country": "73",
+      "port": "28",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "70109000",
+          "Total_Value_in_USD": "534746794.09",
+          "Percentage": "99.87%"
+        },
+        {
+          "HS_Code": "83099020",
+          "Total_Value_in_USD": "235225.83",
+          "Percentage": "0.04%"
+        },
+        {
+          "HS_Code": "39235010",
+          "Total_Value_in_USD": "128092.29",
+          "Percentage": "0.02%"
+        },
+        {
+          "HS_Code": "39235090",
+          "Total_Value_in_USD": "64544.31",
+          "Percentage": "0.01%"
+        },
+        {
+          "HS_Code": "96161010",
+          "Total_Value_in_USD": "58882.56",
+          "Percentage": "0.01%"
+        },
+        {
+          "HS_Code": "96032900",
+          "Total_Value_in_USD": "44481.21",
+          "Percentage": "0.01%"
+        },
+        {
+          "HS_Code": "70199000",
+          "Total_Value_in_USD": "36302.82",
+          "Percentage": "0.01%"
+        },
+        {
+          "HS_Code": "84669390",
+          "Total_Value_in_USD": "21302.7",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "84595120",
+          "Total_Value_in_USD": "19111.95",
+          "Percentage": "0%"
+        },
+        {
+          "HS_Code": "84759000",
+          "Total_Value_in_USD": "18985.26",
+          "Percentage": "0%"
+        }
+      ]
+    },
+    {
+      "S.No": "49",
+      "Exporter_List": "Arcelormittal Nippon Steel India Limited",
+      "Total_Value_in_USD": "530761960.9",
+      "Percentage": "0.04%",
+      "totalShipments": "4764",
+      "totalValue": "543348223",
+      "shipments": "4764",
+      "buyer": "189",
+      "country": "33",
+      "port": "16",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "26011210",
+          "Total_Value_in_USD": "188619258.45",
+          "Percentage": "34.71%"
+        },
+        {
+          "HS_Code": "72104990",
+          "Total_Value_in_USD": "101953989.97",
+          "Percentage": "18.76%"
+        },
+        {
+          "HS_Code": "72085110",
+          "Total_Value_in_USD": "64860462.13",
+          "Percentage": "11.94%"
+        },
+        {
+          "HS_Code": "72109090",
+          "Total_Value_in_USD": "46177723.45",
+          "Percentage": "8.5%"
+        },
+        {
+          "HS_Code": "72083940",
+          "Total_Value_in_USD": "44460778.35",
+          "Percentage": "8.18%"
+        },
+        {
+          "HS_Code": "72083740",
+          "Total_Value_in_USD": "31123685.58",
+          "Percentage": "5.73%"
+        },
+        {
+          "HS_Code": "72083840",
+          "Total_Value_in_USD": "19554129.17",
+          "Percentage": "3.6%"
+        },
+        {
+          "HS_Code": "72083640",
+          "Total_Value_in_USD": "19169004.16",
+          "Percentage": "3.53%"
+        },
+        {
+          "HS_Code": "72085210",
+          "Total_Value_in_USD": "5975317.36",
+          "Percentage": "1.1%"
+        },
+        {
+          "HS_Code": "27011920",
+          "Total_Value_in_USD": "4932040.62",
+          "Percentage": "0.91%"
+        }
+      ]
+    },
+    {
+      "S.No": "50",
+      "Exporter_List": "Maruti Suzuki India Limited",
+      "Total_Value_in_USD": "518765621.8",
+      "Percentage": "0.04%",
+      "totalShipments": "469130",
+      "totalValue": "1446996384",
+      "shipments": "469130",
+      "buyer": "650",
+      "country": "137",
+      "port": "57",
+      "HsCodeDetails": [
+        {
+          "HS_Code": "87032291",
+          "Total_Value_in_USD": "1135961515.96",
+          "Percentage": "78.5%"
+        },
+        {
+          "HS_Code": "87032191",
+          "Total_Value_in_USD": "181914363.37",
+          "Percentage": "12.57%"
+        },
+        {
+          "HS_Code": "85076000",
+          "Total_Value_in_USD": "46646028.7",
+          "Percentage": "3.22%"
+        },
+        {
+          "HS_Code": "87043100",
+          "Total_Value_in_USD": "33965878.67",
+          "Percentage": "2.35%"
+        },
+        {
+          "HS_Code": "87089900",
+          "Total_Value_in_USD": "16980917.37",
+          "Percentage": "1.17%"
+        },
+        {
+          "HS_Code": "87038030",
+          "Total_Value_in_USD": "6036856.9",
+          "Percentage": "0.42%"
+        },
+        {
+          "HS_Code": "73089090",
+          "Total_Value_in_USD": "3837592.31",
+          "Percentage": "0.27%"
+        },
+        {
+          "HS_Code": "87032491",
+          "Total_Value_in_USD": "2586386.58",
+          "Percentage": "0.18%"
+        },
+        {
+          "HS_Code": "87082900",
+          "Total_Value_in_USD": "2337260.3",
+          "Percentage": "0.16%"
+        },
+        {
+          "HS_Code": "87088000",
+          "Total_Value_in_USD": "1607800.34",
+          "Percentage": "0.11%"
+        }
+      ]
+    }
+  ]
+}

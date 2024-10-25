@@ -1,0 +1,20 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chromedriver": "^129.0.4",
+    "puppeteer": "^22.11.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
